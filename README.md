@@ -1,1 +1,1 @@
-# begginer-cv
+# beginner-cv
